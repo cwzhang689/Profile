@@ -6,7 +6,7 @@
 </h1>
 <br>
 
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-05-07`
+*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-12-25`
 <br>
 <text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
 </p>
@@ -25,7 +25,9 @@
 
 #### 📫 How to reach me:
   
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya.pal23/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; 
+<a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ### Languages
 
@@ -117,6 +119,18 @@
 
 <br>
 
+### 🏅 Certificates
+- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
+- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
+- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
+- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
+- [Certified Blockchain Architecture](https://www.credential.net/9d1345a7-9116-4883-a664-1fad1e8fbc48#gs.3oeb87)
+- [IBM Artificial Intelligence](https://www.credly.com/badges/f5b994dc-9823-4f64-b136-c17192c72bf3)
+- [IBM Blockchain Essentials V2 Certified](https://www.credly.com/badges/fa7c9ce3-dc3a-441c-96b2-277387a5f9d5)
+- [IBM Blockchain Foundation Developer V2 Certified](https://www.credly.com/badges/3f046a2f-0701-4dd3-9ed6-eef01bfcc540)
+- [IBM Big Data Foundations - Level 2](https://www.credly.com/badges/2f4f2e6b-dbf5-42e9-b6d7-1e446d0cd703)
+- [IBM Cybersecurity Fundamentals](https://www.credly.com/badges/7cb43b8b-2640-451f-b5ac-5b16650622e7)'
+- 
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/Zhenye-Na/DA-RNN">
@@ -143,6 +157,10 @@
 
 <hr>
 
+<!--🖼️RICK-->
+<p align="center">
+<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+  
 ## 🎵 Spotify status
 
 <a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
@@ -162,3 +180,11 @@
     </li>
   </ul>
 </div> -->
+
+<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/cheehwatang/github-readme-daily-quotes & https://github.com/shravan20/github-readme-quotes -->
+<p align="center">
+<img src="https://github-readme-daily-quotes-trinibs-projects.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker"><br><br>
+  
+<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
