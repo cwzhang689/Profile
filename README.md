@@ -1,8 +1,8 @@
 # Profile
+<!--
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (cwzhang(689|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (cwzhang(689|nd Li)|https://raymond.li)"/>](https://raymond.li/)
-
-
-
+-->
+![Hi there](./1.gif)
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrate Student🎓 [@ Stony Brook University (SBU)]([(https://stonybrook.edu/)])** majoring in Applied Mathematics and Statistics, minoring in Finance. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
