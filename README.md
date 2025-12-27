@@ -1,16 +1,17 @@
 # Profile
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (cwzhang(689|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (cwzhang(689|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-12-25`
+
+
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrate Student🎓 [@ Stony Brook University (SBU)]([(https://stonybrook.edu/)])** majoring in Applied Mathematics and Statistics, minoring in Finance. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
-- 💬 Ask me about **Machine learning, Deep Learning, Computer Vision, and Natural Language Programming**
+- Ask me about **Machine learning, Deep Learning, Computer Vision, and Natural Language Programming**
 - Skating and skiing
 - Mountain Climbing and hiking
 - Watch anime 
 
-### 📫 How to reach me:
+### How to reach me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vivian-zhang-077a5831a/)&nbsp;
 <a href="mailto:vivian.zhang1413@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"/>
@@ -62,7 +63,7 @@ I'm an **Undergrate Student🎓 [@ Stony Brook University (SBU)]([(https://stony
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
-### 📊 Quick Stats
+## 📊 Quick Stats
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwzhang689&theme=react"
@@ -70,25 +71,24 @@ I'm an **Undergrate Student🎓 [@ Stony Brook University (SBU)]([(https://stony
   />
 </p>
 
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
+
 <!--
 ## 📝 Blogs
 - Personal website and blog: https://zhenye-na.github.io/
 -->
 
-<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
-<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
-
 <!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/cheehwatang/github-readme-daily-quotes & https://github.com/shravan20/github-readme-quotes -->
+<!-- 
 <p align="center">
 <img src="https://github-readme-daily-quotes-trinibs-projects.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker"><br><br>
-  
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+-->
 
-
-### 👾 Cool Stuff
+## 👾 Cool Stuff
 -  <a href="https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.03923&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=true&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false">Peel Open</a> a Neural Network 🧠
 -  A Way to <a href="https://stephango.com/40-questions">Reflect On</a> the New Year 🎊
 
-<hr>
+<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
