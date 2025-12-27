@@ -1,17 +1,14 @@
 # Profile
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (cwzhang(689|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (cwzhang(689|nd Li)|https://raymond.li)"/>](https://raymond.li/)
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Clayton+Hamilton%2C+PharmD;Welcome+to+my+README" alt="Typing SVG" /></a>
-</h1>
-<br>
 
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-12-25`
-<br>
-<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
-</p>
-<br>
-<h2> Hi, I'm Chuwen! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+#### 📫 How to reach me:
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vivian-zhang-077a5831a/)&nbsp;
+<a href="mailto:vivian.zhang1413@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"/>
+</a>
+- 💬 Ask me about **Machine learning algorithms, computer vision techniques, data science tools**
 
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
@@ -23,11 +20,16 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-#### 📫 How to reach me:
-  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; 
-<a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+              <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ### Languages
 
@@ -35,10 +37,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 ### Technologies
 
@@ -68,32 +68,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
-
-**Cloud Services:**
-
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![Bedrock](https://img.shields.io/badge/AI-Bedrock-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![SageMaker](https://img.shields.io/badge/ML-SageMaker-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
-![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
-![Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=6aa6f8)
-![ECS Fargate](https://img.shields.io/badge/Container-ECS_Fargate-informational?style=flat&logo=amazon-ecs&logoColor=white&color=6aa6f8)
-![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
-![SNS](https://img.shields.io/badge/Pub/Sub-SNS-informational?style=flat&logo=amazon-sns&logoColor=white&color=6aa6f8)
-![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
-![IAM](https://img.shields.io/badge/Security-IAM-informational?style=flat&logo=amazon-iam&logoColor=white&color=6aa6f8)
-![VPC](https://img.shields.io/badge/Network-VPC-informational?style=flat&logo=amazon-vpc&logoColor=white&color=6aa6f8)
-![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
-![X-Ray](https://img.shields.io/badge/Tracing-X--Ray-informational?style=flat&logo=amazon-xray&logoColor=white&color=6aa6f8)
-
-**Programming Languages:**
-
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
-
-
 **Tools and Services:**
 
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
@@ -191,3 +165,19 @@
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
+
+
+# 🔭Actions
+
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=holic-x"/>
+</div>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
+</picture>
