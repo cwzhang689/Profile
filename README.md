@@ -92,3 +92,13 @@ I'm an **Undergrate Student🎓 [@ Stony Brook University (SBU)]([(https://stony
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
+<!-  README helping website 
+https://github.com/abhisheknaiidu/awesome-github-profile-readme/tree/master?tab=readme-ov-file
+https://github.com/DenverCoder1/readme-typing-svg
+https://readme-typing-svg.demolab.com/demo/
+https://github.com/thmsgbrt/thmsgbrt
+https://codesandbox.io/examples/package/typeit
+https://codesandbox.io/p/sandbox/cocky-cohen-9c5rjz?file=%2Fsrc%2Fcomponents%2FHelloWorld.vue
+https://pjc0247.github.io/gif-for-readme/
+-->
